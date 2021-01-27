@@ -1,0 +1,25 @@
+body{
+    background: lightblue;
+}
+span{
+    font-size: 30px;
+}
+.heading{
+    font-size: 30px;
+    font-style: bold;
+}
+#Camera,#Result{
+    border: 10px double red;
+    height: 300px;
+    width:350px;
+    
+}
+#Emoji_Answer1,#Emoji_Answer2{
+    color: orange;
+    font-size: 40px;
+    font-style: cursive;
+}
+#Emoji_Img,#Emoji_Img2{
+    font-size: 48px;
+}
+
